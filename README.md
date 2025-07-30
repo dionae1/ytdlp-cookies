@@ -1,4 +1,4 @@
-[yt-dlp](https://github.com/yt-dlp/yt-dlp)
+a wrap of [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ## 📦 Requirements
 
@@ -8,9 +8,9 @@
 
 ## 🔧 Install
 
-- Install ffmpeg from https://ffmpeg.org/
+  Install ffmpeg from https://ffmpeg.org/
 
-- git clone https://github.com/seu-usuario/ytdlp-wrapper.git
-- cd ytdlp-wrapper
+  git clone https://github.com/seu-usuario/ytdlp-wrapper.git
+  cd ytdlp-wrapper
 
-- pip install -r requirements.txt
+  pip install -r requirements.txt
